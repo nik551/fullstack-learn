@@ -16,3 +16,5 @@ const MLModel:number[][] =[
 ]
 
 allUsers.push({name:"Nikhil",isActive:true})
+
+export {}
