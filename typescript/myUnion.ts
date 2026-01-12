@@ -36,3 +36,6 @@ const data :(number | string | boolean) [] =[1,2,3,"Nikhil"]
 let seatAllotment : "aisle" | "middle" | "window";
 seatAllotment = "aisle";
 // seatAllotment = "crew"; /// error
+
+export {}
+
